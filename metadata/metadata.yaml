@@ -1,0 +1,5 @@
+title: MultiFoXS benchmark
+tags: [FoXS, benchmark]
+test:
+    runtime: 24h
+    build: release
